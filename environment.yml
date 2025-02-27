@@ -1,7 +1,7 @@
 name: base
 channels:
   - conda-forge
-  -r
+  - r
 prefix: /opt/conda
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
